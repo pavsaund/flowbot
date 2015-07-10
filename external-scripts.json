@@ -9,5 +9,6 @@
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-shipit",
-  "hubot-flowdock-delete-message"
+  "hubot-flowdock-delete-message",
+  "hubot-standup-alarm"  
 ]
